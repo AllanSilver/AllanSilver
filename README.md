@@ -10,5 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 print("Olá Mundo")
 Começar com o pé direito... 
-Iniciando em Data Science, logo um futuro Cientista de Dados. 
+Iniciando em AdS, logo,vum engenheiro de software. DB_SQL. 😍
 🤩🤪✌🏻
